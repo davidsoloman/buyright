@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="settings">Einstellungen</string>
+  <string name="add_product">Produkt hinzufügen</string>
+  <string name="error_wear_app_not_installed">Die Android Wear App ist nicht installiert</string>
+  <string name="error_google_api_client_connect_failed">Verbindung zum Google API Client ist fehlgeschlagen</string>
+  <string name="search">Suchen</string>
+  <string name="todo">Einkauf</string>
+  <string name="done">Fertig</string>
+  <string name="delete">Löschen</string>
+  <string name="delete_product">Produkt löschen</string>
+  <string name="delete_confirm">Wollen Sie \'%1s\' wirklich löschen?</string>
+  <string name="what_do_you_want_to_buy">Was möchten Sie einkaufen…</string>
+  <string name="no_products_found">Keine Produkte gefunden</string>
+  <string name="clear_shopping_list">Einkaufsliste löschen</string>
+  <string name="clear_shopping_list_confirm">Alle Produkte von \'Einzukaufen\' nach \'Fertig\' verschieben und die
+    Einkaufsliste auf dem Wearable löschen?
+  </string>
+  <string name="edit">Bearbeiten</string>
+  <string name="edit_product">Produkt bearbeiten</string>
+  <string name="name">Name</string>
+  <string name="save">Speichern</string>
+  <string name="cancel">Abrechen</string>
+  <string name="draw_card_animations">Karten-Animationen aktivieren</string>
+  <string name="draw_card_animations_summary">Ripple-Effekt und Animationen für die Produkt-Karten aktivieren</string>
+  <string name="single_line_cards">Einzeilige Karten-Texte</string>
+  <string name="single_line_cards_summary">Nur eine Zeile Text in den Produkt-Karten anzeigen</string>
+  <string name="export_data">Daten exportieren</string>
+  <string name="import_data">Daten importieren</string>
+  <string name="import_data_confirm">Aktuelle Daten löschen und aus der Datei \'buyright.json\' neu laden?
+  </string>
+  <string name="export_data_confirm">Aktuelle Daten in die Datei \'buyright.json\' exportieren?</string>
+  <string name="export_data_successful">Daten wurden erfolgreich exportiert</string>
+  <string name="import_data_successful">Daten wurden erfolgreich importiert</string>
+</resources>

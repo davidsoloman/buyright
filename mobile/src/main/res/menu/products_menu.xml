@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+
+  <item android:id="@+id/action_add"
+        android:title="@string/add_product"
+        android:icon="@drawable/ic_add_white_24dp"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom"/>
+
+  <item android:id="@+id/action_clear_shopping_list"
+        android:title="@string/clear_shopping_list"
+        android:icon="@drawable/ic_clear_all_white_24dp"
+        android:orderInCategory="2"
+        app:showAsAction="never"/>
+
+  <item android:id="@+id/action_export"
+        android:title="@string/export_data"
+        android:icon="@drawable/ic_file_upload_white_24dp"
+        android:orderInCategory="3"
+        app:showAsAction="never"/>
+
+  <item android:id="@+id/action_import"
+        android:title="@string/import_data"
+        android:icon="@drawable/ic_file_download_white_24dp"
+        android:orderInCategory="4"
+        app:showAsAction="never"/>
+
+  <item android:id="@+id/action_settings"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings_white_24dp"
+        android:orderInCategory="5"
+        app:showAsAction="never"/>
+
+</menu>

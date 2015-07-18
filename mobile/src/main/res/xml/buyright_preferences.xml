@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <CheckBoxPreference android:title="@string/draw_card_animations"
+                      android:defaultValue="true"
+                      android:summary="@string/draw_card_animations_summary"
+                      android:key="drawCardAnimations"/>
+
+  <CheckBoxPreference android:title="@string/single_line_cards"
+                      android:defaultValue="true"
+                      android:summary="@string/single_line_cards_summary"
+                      android:key="singleLineCards"/>
+
+</PreferenceScreen>
